@@ -87,6 +87,7 @@ def extract_features(wav_dir, out_dir, recompute):
                 ham_win = np.hamming(n_window)
                 [f, t, x] = signal.spectral.spectrogram(
                                 x=audio, 
+                                fs=fs,
                                 window=ham_win,
                                 nperseg=n_window, 
                                 noverlap=n_overlap, 
