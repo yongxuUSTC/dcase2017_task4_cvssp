@@ -19,3 +19,12 @@ For downloading the data, please see https://groups.google.com/forum/#!searchin/
 Number of training files: 51172
 Number of testing files: 488
 Number of evaluation files: 1103
+
+@inproceedings{xu2018large,
+  title={Large-scale weakly supervised audio classification using gated convolutional neural network},
+  author={Xu, Yong and Kong, Qiuqiang and Wang, Wenwu and Plumbley, Mark D},
+  booktitle={2018 IEEE international conference on acoustics, speech and signal processing (ICASSP)},
+  pages={121--125},
+  year={2018},
+  organization={IEEE}
+}
