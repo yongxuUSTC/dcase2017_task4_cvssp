@@ -1,4 +1,4 @@
-# dcase2017_task4_cvssp, 1st prize system in DCASE2017 task 4 challenge
+# dcase2017_task4_cvssp
 
 Source code for the DCASE2017 task4 "Large-scale weakly supervised sound event detection for smart cars" challenge. 
 
